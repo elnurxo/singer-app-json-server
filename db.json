@@ -219,7 +219,7 @@
       "debutYear": 2008,
       "img": "https://olay.az/uploads/posts/2023-12/thumbs/cvnxbvxmbmvbmm.webp",
       "awardsWon": "4",
-      "labelCompany": "Azerbaijan Records",
+      "label": "Azerbaijan Records",
       "genre": "Alternative,Classical,Folk",
       "nationality": "Azerbaijani",
       "albums": "album 1, album 2",
@@ -233,12 +233,39 @@
       "debutYear": 1998,
       "img": "https://demokrat.az/cdn/uploadedfiles/custom/2023/3/26/1/47c74732-37cc-47bd-9da7-e464f955a644/eyyub-yaqubov-konsert.jpg",
       "awardsWon": "2",
-      "labelCompany": "Bakılı Records",
+      "label": "Bakılı Records",
       "genre": "Folk",
       "nationality": "Azerbaijani",
       "albums": "Alışdım, Unutdum",
       "monthlyListeners": 43426
-    }
-  ],
+    },
+   {
+  "id": "16",
+  "stageName": "Childish Gambino",
+  "realName": "Donald Glover",
+  "age": 40,
+  "debutYear": 2008,
+  "img": "https://relevantmagazine.com/wp-content/uploads/2023/01/Childish-Gambino_Slice_RLV_2023-scaled.jpg",
+  "awardsWon": "5",
+  "label": "Glassnote Records",
+  "genre": "Hip Hop, R&B, Funk",
+  "nationality": "American",
+  "albums": "Camp, Because the Internet, Awaken, My Love!, 3.15.20",
+  "monthlyListeners": 25142358
+   },
+   {
+  "id": "17",
+  "stageName": "Amy Winehouse",
+  "realName": "Amy Jade Winehouse",
+  "age": 27,
+  "debutYear": 2003,
+  "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-203030-GettyImages-88426678.jpg?w=1581&h=1054&crop=1",
+  "awardsWon": "23",
+  "labelCompany": "Island Records",
+  "genre": "Soul, Jazz, R&B",
+  "nationality": "British",
+  "albums": "Frank, Back to Black, Lioness: Hidden Treasures",
+  "monthlyListeners": 13950231
+}],
   "songs": []
 }
