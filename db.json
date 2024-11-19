@@ -212,7 +212,7 @@
       "awardsWon": 18
     },
     {
-      "id": "4b6c",
+      "id": "13",
       "stageName": "Röya",
       "realName": "Röya Ayxan",
       "age": 32,
@@ -224,6 +224,20 @@
       "nationality": "Azerbaijani",
       "albums": "album 1, album 2",
       "monthlyListeners": 145300
+    },
+      {
+      "id": "14",
+      "stageName": "Eyyub Yaqubov",
+      "realName": "Eyyub Yaqubov",
+      "age": 59,
+      "debutYear": 1998,
+      "img": "https://demokrat.az/cdn/uploadedfiles/custom/2023/3/26/1/47c74732-37cc-47bd-9da7-e464f955a644/eyyub-yaqubov-konsert.jpg",
+      "awardsWon": "2",
+      "labelCompany": "Bakılı Records",
+      "genre": "Folk",
+      "nationality": "Azerbaijani",
+      "albums": "Alışdım, Unutdum",
+      "monthlyListeners": 43426
     }
   ],
   "songs": []
