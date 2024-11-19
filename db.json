@@ -240,7 +240,7 @@
       "monthlyListeners": 43426
     },
    {
-  "id": "16",
+  "id": "15",
   "stageName": "Childish Gambino",
   "realName": "Donald Glover",
   "age": 40,
@@ -254,14 +254,14 @@
   "monthlyListeners": 25142358
    },
    {
-  "id": "17",
+  "id": "16",
   "stageName": "Amy Winehouse",
   "realName": "Amy Jade Winehouse",
   "age": 27,
   "debutYear": 2003,
   "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-203030-GettyImages-88426678.jpg?w=1581&h=1054&crop=1",
   "awardsWon": "23",
-  "labelCompany": "Island Records",
+  "label": "Island Records",
   "genre": "Soul, Jazz, R&B",
   "nationality": "British",
   "albums": "Frank, Back to Black, Lioness: Hidden Treasures",
